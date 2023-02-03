@@ -1,1 +1,4 @@
 # Machine-learning-assignment-2
+Name:KANDAGATLA SRIRAM
+CRN:CRN23922
+#700:700745188
